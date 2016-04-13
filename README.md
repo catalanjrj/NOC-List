@@ -48,7 +48,7 @@ This message will self destruct in 5 seconds.
 * [x] 16. Send something to the object calling this method. What is this method supposed to return?
 * [x] 17. Connect this property to its associated storyboard object
 * [x] 18. Create two additional properties for the other storyboard objects and connect them as well
-* [ ] 19. Extract the agent's last name from the cover name property
-* [ ] 20. Set the title of this view to "Agent #", where # is the agent's last name
-* [ ] 21. Set the three labels to their appropriate values from the Agent object
-* [ ] 22. Call the configureView method
+* [x] 19. Extract the agent's last name from the cover name property
+* [x] 20. Set the title of this view to "Agent #", where # is the agent's last name
+* [x] 21. Set the three labels to their appropriate values from the Agent object
+* [x] 22. Call the configureView method
